@@ -3,3 +3,5 @@ En la carpeta de librerias se encuentran los archivos jar para que se pueda ejec
 En la carpeta DDL se encuentra el script que se genera al exportar la base de datos
 
 En el rar se encuentra el programa en java
+
+enlace a la descarga del archivo necesario para ejecutar el programa: https://drive.google.com/drive/folders/1OozGpm_VmdHs0gw5OW-zHGVTsP7QaWa8?usp=sharing
